@@ -13,7 +13,7 @@ class GenericBootstrap2GrailsPlugin {
     def author = "Nick dos Remedios"
     def authorEmail = "nick.dosremedios@csiro.au"
     def description = '''\
-Light-weight plugin for Bootstrap2 files and application resources (a drop-in replacement for
+Light-weight plugin for Bootstrap2 files and application resources for use with clients of biocache-hubs (a drop-in replacement for
 ala-bootstrap2 plugin for use in non-ALA web apps).
 '''
 
