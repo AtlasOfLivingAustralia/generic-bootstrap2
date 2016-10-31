@@ -1,8 +1,8 @@
 class GenericBootstrap2GrailsPlugin {
     // the plugin version
-    def version = "1.0"
+    def version = "1.0.1"
     // the version or versions of Grails the plugin is designed for
-    def grailsVersion = "2.4 > *"
+    def grailsVersion = "2.3 > *"
     // resources that are excluded from plugin packaging
     def pluginExcludes = [
         "grails-app/views/error.gsp"
